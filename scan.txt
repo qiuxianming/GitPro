@@ -1,3 +1,4 @@
 add scan feature.
 add scan v2.
 fix bug -- other.
+fix scan v2 buy.
