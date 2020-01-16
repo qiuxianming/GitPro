@@ -7,3 +7,4 @@ add by dev.
 add by feature.
 finish login.
 finish register.
+finish scan.
