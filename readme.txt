@@ -6,4 +6,4 @@ Creating a new branch is quick and simple fix 01.
 add by dev.
 add by feature.
 finish login.
-doing register...
+finish register.
