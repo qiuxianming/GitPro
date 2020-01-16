@@ -1,1 +1,2 @@
 add scan feature.
+fix bug -- other.
