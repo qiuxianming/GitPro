@@ -11,5 +11,3 @@ finish scan.
 finx scan bug.
 fix register bug.
 finx scan bug.
-
-other add old.
