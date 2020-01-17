@@ -11,9 +11,5 @@ finish scan.
 finx scan bug.
 fix register bug.
 fix scan bug.
-<<<<<<< HEAD
 
-add abc
-=======
 xxxx
->>>>>>> add xxx
