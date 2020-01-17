@@ -8,4 +8,8 @@ add by feature.
 finish login.
 finish register.
 finish scan.
+<<<<<<< HEAD
 finx scan bug.
+=======
+fix register bug.
+>>>>>>> fix register bug
