@@ -8,3 +8,4 @@ add by feature.
 finish login.
 finish register.
 finish scan.
+fix register bug.
