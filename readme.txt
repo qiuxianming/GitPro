@@ -9,3 +9,4 @@ finish login.
 finish register.
 finish scan.
 fix register bug.
+finx scan bug.
