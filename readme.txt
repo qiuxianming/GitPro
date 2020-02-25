@@ -16,3 +16,4 @@ xxxx
 add abc
 
 fb_login
+register
