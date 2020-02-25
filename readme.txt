@@ -8,3 +8,9 @@ add by feature.
 finish login.
 finish register.
 finish scan.
+finx scan bug.
+fix register bug.
+fix scan bug.
+
+xxxx
+add abc
